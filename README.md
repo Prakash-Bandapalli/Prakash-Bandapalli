@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="center">Hi 👋, I'm Prakash Bandapalli<br>A passionate 🌟 React Developer</h2>
+<h2 align="center">Hi 👋, I'm Prakash Bandapalli<br>A passionate 🌟 Full-Stack Developer</h2>
 
 ###
 
